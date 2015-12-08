@@ -2,6 +2,9 @@
 Let's start off, while I clean up a few things prior to posting, with a few 
 useful links:
 
+The granddaddy manual process, multinode, TLS, everything but the kitchen 
+sink, official [Kubernetes on CoreOS](https://coreos.com/kubernetes/docs/latest/getting-started.html)
+
 Barak Michener's [10-Minute Kubernetes](https://github.com/barakmich/10m-k8s) 
 on DigitalOcean
 
